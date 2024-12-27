@@ -154,7 +154,6 @@ int main() {
     return 0;
 }
 🧑‍💻 Example Output
-bash
-Copy code
+
 Items in the queue: [100 200 300]
 Items in the queue: [200 300]
